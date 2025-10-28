@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "Hi there"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm Brennen Chadburn's Digital Twin. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "My name is Charlie"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Charlie! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "What's name?"
+  },
+  {
+    "role": "assistant",
+    "content": "My name is Brennen Chadburn's Digital Twin. You can think of me as a representation of Brennen here to help you with any questions you have. What would you like to know?"
+  },
+  {
+    "role": "user",
+    "content": "What's my name?"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Charlie! How can I assist you further, Charlie?"
+  }
+]

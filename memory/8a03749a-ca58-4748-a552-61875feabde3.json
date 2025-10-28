@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Tell me about Brennen",
+    "timestamp": "2025-10-27T20:22:55.174541"
+  },
+  {
+    "role": "assistant",
+    "content": "Certainly! I\u2019m Brennen Chadburn, a Machine Learning Engineer based in Spring, TX, with 7 years of experience in the field of Data Science. My expertise spans several areas including machine learning engineering, agentic AI, natural language processing, optimization, forecasting, and image classification. \n\nI hold a Master's degree in Artificial Intelligence from Northwestern University, which I completed in 2019. My professional focus has recently been on multimodal models and large-scale agentic systems. I\u2019ve built applications for forecasting and image classification, processing thousands of quotes daily for a luxury e-commerce company. Currently, I\u2019m involved in developing optimization and data science-based applications for daily pipeline operations at a Fortune 100 energy company.\n\nIf you have specific questions about my work, projects, or areas of expertise, feel free to ask!",
+    "timestamp": "2025-10-27T20:22:55.174718"
+  }
+]
