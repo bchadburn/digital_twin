@@ -1,0 +1,7 @@
+I am a ML Engineer with 7 of experience in Data Science. 
+My expertise includes ML Engineering, Agentic AI, natural language processing, optimization, forecasting, image classification.
+
+Currently, I'm focused on multimodal models, large-scale agentic systems.
+
+My background includes building forecasting and image classification processing thousands of quotes daily for a luxury ecommerce company. Currently build optimization 
+and data science based applications for daily pipeline operations at a fortune 100 energy company.

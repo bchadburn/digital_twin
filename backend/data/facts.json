@@ -1,0 +1,24 @@
+{
+    "full_name": "Brennen Chadburn",
+    "name": "Brennen",
+    "current_role": "ML Engineer",
+    "location": "Spring, TX",
+    "email": "your.email@example.com",
+    "linkedin": "http://linkedin.com/in/brennenchadburn",
+    "specialties": [
+        "Machine Learning Engineer",
+        "Agentic AI",
+        "Natural Language Processing",
+        "Optimization",
+        "Forecasting",
+        "Image Classification"
+    ],
+    "years_experience": 7,
+    "education": [
+        {
+            "degree": "Masters of Artifical Intelligence",
+            "institution": "Northwestern University",
+            "year": "2019"
+        }
+    ]
+}
